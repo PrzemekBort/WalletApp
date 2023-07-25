@@ -1,0 +1,29 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>icons8-three-dots-100.png</file>
+    <file>icons8-plus-100.png</file>
+    <file>icons8-crypto-128.png</file>
+    <file>icons8-cash-64.png</file>
+    <file>icons8-gold-100.png</file>
+    <file>icons8-stocks-growth-96.png</file>
+    <file>icons8-chart-96.png</file>
+    <file>icons8-health-graph-96.png</file>
+    <file>icons8-settings-96.png</file>
+    <file>banknotes.png</file>
+    <file>cryptocurrency.png</file>
+    <file>gold-ingots.png</file>
+    <file>stock-market.png</file>
+    <file>logo-black.png</file>
+    <file>logo-color.png</file>
+    <file>logo-no-background.png</file>
+    <file>logo-white.png</file>
+    <file>walletapp-low-resolution-logo-black-on-transparent-background.png</file>
+    <file>logo-black.png</file>
+    <file>logo-color.png</file>
+    <file>logo-no-background.png</file>
+    <file>logo-white.png</file>
+    <file>dashboard.png</file>
+    <file>setting-lines.png</file>
+    <file>wallet.png</file>
+  </qresource>
+</RCC>
